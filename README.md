@@ -49,7 +49,7 @@ A comprehensive implementation of K-Nearest Neighbors classifier for handwritten
 ```bash
   FINAL RESULTS
 Test Accuracy: 97.05% 
-Best Parameters: {'n_neighbors': X, 'weights': 'distance'}
+Best Parameters: {'n_neighbors': 3, 'weights': 'distance'}
 Cross-Validation Score: 96.60%
 ```
 
